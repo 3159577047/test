@@ -13,3 +13,6 @@ just test and some faces_recognition
 大模型
 
 # 学到的东西
+分别上传了test代码和test1人脸识别代码以及123文本文件
+先本地部署git，然后再云端git push期间要保证其他的和仓库相同
+最后祝大家给github使用顺利
