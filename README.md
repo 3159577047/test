@@ -6,3 +6,5 @@ just test and some faces_recognition
 
 # 资料主要来源
 大模型
+
+# 学到的东西
